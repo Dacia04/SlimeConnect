@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33bfc3c4f674ef04baac589d132342f4, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  BaseScore: 1200
+  BaseCoin: 200
+  BaseMinWidthMap: 5
+  BaseMaxWidthMap: 10
+  BaseMinHeightMap: 6
+  BaseMaxHeightMap: 16
+  NumberOfSlimeType: 4
+  BaseMinTimePlay: 150
+  BaseMaxTimePlay: 300
+  ShuffleBuffBase: 5
+  HintBuffBase: 5
+  AddTimeBuffBase: 5
+  GiftList:
+  - {fileID: 8398469632530290468, guid: 682948b13db3cb741929016eee478307, type: 3}
+  - {fileID: 8737476458852112080, guid: e98bb6cd495dcdb409eb95d59d45f435, type: 3}
+  - {fileID: 7009166149150444717, guid: 7dea7e1ae1534b042a7b3532d27effe4, type: 3}

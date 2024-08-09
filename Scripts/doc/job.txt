@@ -1,0 +1,40 @@
+base --v
+các loại xóa trộn sau khi xóa pair:
+    đẩy lên trên --v
+    đẩy xuống dưới --v
+    đẩy sang trái --v
+    đẩy sang phải --v
+    dịch dòng lên trên --v
+    dịch dòng xuống dưới --v
+    dịch dòng sang trái --v
+    dịch dòng sang phải --v
+UI:
+    point: cách tính point( dựa vào thời gian đã mất và số buff đã dùng)  --v
+    coin: dựa vào point --v
+    gem và buff, sẽ được rơi ngẫu nhiên trong game --v
+    shop:
+        shop coin:
+            1000  coins - 10 gem
+            5000  coins - 60 gem
+            10000 coins - 150 gem
+            20000 coins - 320 gem
+            50000 coins - 1000 gem
+
+        shop gem:
+            100 gem:1 hint
+            100 gem:1 shuffle
+            100 gem:1 add time
+            250 gem: 1 hint + shuffle + add time
+            500 gem: 5 hint + shuffle + add time --v
+    buff trong game sau khi dùng giảm --v
+
+Save:
+    chế độ classic: count  strike --v
+    gem --v
+    coin --v
+
+UI:
+    animation --v
+Sound: --v
+
+
